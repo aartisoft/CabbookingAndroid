@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "561218339854",
+    "firebase_url": "https://cabbookingccv3-1c0e3.firebaseio.com",
+    "project_id": "cabbookingccv3-1c0e3",
+    "storage_bucket": "cabbookingccv3-1c0e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561218339854:android:836d27547764a113",
+        "android_client_info": {
+          "package_name": "com.epbit.ccv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561218339854-irs22aj977o7mhuh3g6gc4pl3sq1q21j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr_p80L0poPTSylbRsXWD5mgTXeC0_6cQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
